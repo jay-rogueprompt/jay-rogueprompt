@@ -4,10 +4,9 @@
 
 I research defense-in-depth for AI systems, AI-native threat modeling & hunting, and adversarial ML counter-operations. Not compliance theater. Structural understanding.
 
-Currently: **AI Security Senior Specialist** in a regulated environment 
+Currently: **AI Security Senior Specialist** in a regulated healthcare environment.
 
 > *Opinions are my own and do not reflect my employer.*
-
 
 ---
 
@@ -17,7 +16,7 @@ Currently: **AI Security Senior Specialist** in a regulated environment
 |---|---|
 | 🔬 **Research** | AI security defense-in-depth frameworks, threat modeling, adversarial counter-operations |
 | 📄 **Writing** | Long-form deep-dives on Substack — deployment-grade, not hot takes |
-| 🛠️ **Artifacts** | Security tooling and reference implementations — here on GitHub |
+| 🛠️ **Artifacts** | Security tooling and reference implementations - here on GitHub |
 
 ---
 
