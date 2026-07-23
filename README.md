@@ -2,10 +2,7 @@
 
 <img src="banner.png" alt="Rogue Prompt" width="100%">
 
-<a href="https://rogue-prompt.com"><img src="badges/link-site.png" width="230"></a>
-<a href="https://rogueprompt.substack.com"><img src="badges/link-substack.png" width="230"></a>
-<a href="https://linkedin.com/in/jayd-rogueprompt"><img src="badges/link-linkedin.png" width="230"></a>
-<a href="https://bsky.app/profile/rogue-prompt.com"><img src="badges/link-bluesky.png" width="230"></a>
+**[rogue-prompt.com](https://rogue-prompt.com)** &nbsp;·&nbsp; **[Substack](https://rogueprompt.substack.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/jayd-rogueprompt)** &nbsp;·&nbsp; **[Bluesky](https://bsky.app/profile/rogue-prompt.com)**
 
 </div>
 
@@ -53,10 +50,10 @@ rogue-prompt:~$ ls research/
 
 | | |
 |:---|:---|
-| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/01-persistence.png" width="300"></a> | How adversaries stay inside agentic systems after the initial compromise, and what each mechanism reveals about the actor. |
-| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/02-killchains.png" width="300"></a> | LLM attack paths mapped to courses of action (deny, degrade, disrupt, deceive), not just vulnerability classes. |
-| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/03-structural.png" width="300"></a> | Why classifiers are not controls, and what a trusted computing base looks like for an agent. |
-| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/04-profiling.png" width="300"></a> | Attribution methodology carried from nation-state CTI onto a new surface. |
+| **`01`** &nbsp; **PERSISTENCE TYPOLOGY** | How adversaries stay inside agentic systems after the initial compromise, and what each mechanism reveals about the actor. |
+| **`02`** &nbsp; **KILL CHAINS** | LLM attack paths mapped to courses of action (deny, degrade, disrupt, deceive), not just vulnerability classes. |
+| **`03`** &nbsp; **STRUCTURAL VS STATISTICAL** | Why classifiers are not controls, and what a trusted computing base looks like for an agent. |
+| **`04`** &nbsp; **ACTOR PROFILING** | Attribution methodology carried from nation-state CTI onto a new surface. |
 
 > **[ai-adversary-research](https://github.com/jay-rogueprompt/ai-adversary-research)** is where all of it lives.
 
