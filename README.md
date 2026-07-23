@@ -67,9 +67,11 @@ rogue-prompt:~$ ls research/
 
 <br>
 
-My background is adversary work, years working and leading Counter-adversary Operations teams on nation-state APTs, ransomware crews, and organized threat actors, until the tradecraft and the actor behind it were undeniable. Navy first, then CTI, with a contribution to the Verizon DBIR and support on two CISA #StopRansomware advisories along the way.
+Navy, then cyber threat intelligence, then years operating against real adversaries: nation-state APTs, ransomware crews, organized threat actors. Not from a distance. Running the hunts, building the intel, working the incidents.
 
-The attacks on AI systems, injected instructions, poisoned memory, the rogue prompt, are still early, so most of my work here is theory and hypothesis: running experiments, probing how these systems fail, and asking how you would attribute an attack on a model the way you would on a network. I work through it in the open, because I would rather test ideas in public and help build AI security into a real discipline than wait for the field to settle.
+Led CTI teams. Contributed to the **Verizon DBIR**. Supported two **CISA #StopRansomware** advisories.
+
+Attribution was always the discipline: reading infrastructure, tradecraft, and history until the actor is undeniable. AI is a new surface for that same read.
 
 </details>
 
