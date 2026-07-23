@@ -2,10 +2,10 @@
 
 <img src="banner.png" alt="Rogue Prompt" width="100%">
 
-[![Site](https://img.shields.io/badge/SITE-rogue--prompt.com-d9a441?style=for-the-badge&labelColor=070b13)](https://rogue-prompt.com)
-[![Substack](https://img.shields.io/badge/WRITING-substack-d9a441?style=for-the-badge&labelColor=070b13)](https://rogueprompt.substack.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-jayd--rogueprompt-d9a441?style=for-the-badge&labelColor=070b13)](https://linkedin.com/in/jayd-rogueprompt)
-[![Bluesky](https://img.shields.io/badge/BLUESKY-@rogue--prompt.com-d9a441?style=for-the-badge&labelColor=070b13)](https://bsky.app/profile/rogue-prompt.com)
+<a href="https://rogue-prompt.com"><img src="badges/link-site.png" width="230"></a>
+<a href="https://rogueprompt.substack.com"><img src="badges/link-substack.png" width="230"></a>
+<a href="https://linkedin.com/in/jayd-rogueprompt"><img src="badges/link-linkedin.png" width="230"></a>
+<a href="https://bsky.app/profile/rogue-prompt.com"><img src="badges/link-bluesky.png" width="230"></a>
 
 </div>
 
@@ -51,40 +51,12 @@ Four mechanisms, one outcome. The mechanism is the tell: each one implies a diff
 rogue-prompt:~$ ls research/
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Persistence typology**
-
-How adversaries stay inside agentic systems after the initial compromise, and what each mechanism reveals about the actor.
-
-</td>
-<td width="50%" valign="top">
-
-**Kill chains**
-
-LLM attack paths mapped to courses of action (deny, degrade, disrupt, deceive), not just vulnerability classes.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Structural vs statistical defense**
-
-Why classifiers are not controls, and what a trusted computing base looks like for an agent.
-
-</td>
-<td width="50%" valign="top">
-
-**Actor profiling**
-
-Attribution methodology carried from nation-state CTI onto a new surface.
-
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/01-persistence.png" width="300"></a> | How adversaries stay inside agentic systems after the initial compromise, and what each mechanism reveals about the actor. |
+| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/02-killchains.png" width="300"></a> | LLM attack paths mapped to courses of action (deny, degrade, disrupt, deceive), not just vulnerability classes. |
+| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/03-structural.png" width="300"></a> | Why classifiers are not controls, and what a trusted computing base looks like for an agent. |
+| <a href="https://github.com/jay-rogueprompt/ai-adversary-research"><img src="badges/04-profiling.png" width="300"></a> | Attribution methodology carried from nation-state CTI onto a new surface. |
 
 > **[ai-adversary-research](https://github.com/jay-rogueprompt/ai-adversary-research)** is where all of it lives.
 
@@ -95,11 +67,9 @@ Attribution methodology carried from nation-state CTI onto a new surface.
 
 <br>
 
-Navy, then cyber threat intelligence, then years operating against real adversaries: nation-state APTs, ransomware crews, organized threat actors. Not from a distance. Running the hunts, building the intel, working the incidents.
+My background is adversary work, years working and leading Counter-adversary Operations teams on nation-state APTs, ransomware crews, and organized threat actors, until the tradecraft and the actor behind it were undeniable. Navy first, then CTI, with a contribution to the Verizon DBIR and support on two CISA #StopRansomware advisories along the way.
 
-Led CTI teams. Contributed to the **Verizon DBIR**. Supported two **CISA #StopRansomware** advisories.
-
-Attribution was always the discipline: reading infrastructure, tradecraft, and history until the actor is undeniable. AI is a new surface for that same read.
+The attacks on AI systems, injected instructions, poisoned memory, the rogue prompt, are still early, so most of my work here is theory and hypothesis: running experiments, probing how these systems fail, and asking how you would attribute an attack on a model the way you would on a network. I work through it in the open, because I would rather test ideas in public and help build AI security into a real discipline than wait for the field to settle.
 
 </details>
 
